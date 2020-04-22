@@ -1,4 +1,11 @@
 [![Everything Is AWESOME](https://www.theredboy.com/wp-content/uploads/2020/03/selfBuilding-1-300x107.png)](https://www.youtube.com/watch?v=1egOXboMLlc")
 
-selfBuilding is a VR platform made for the Architecture Companies sector, where customers are able to design the interior of their future homes, and by the use of Virtual Reality Glasses, they are able to navigate through the simulation in order to change color, textures and furniture in order to create the house of their dreams. 
+selfBuilding is a VR and AR SaaS where customers are able to design and interact with your products virtually, they are able to navigate through the simulation in order to change color, items and textures.
 
+selBuilding is so powerful that you are able to implement it in industrial, educational, technological areas!
+
+We made selfBuilding compatible with VR technologies, mobile devices, computers and video game platforms.
+
+Video selfBuilding VR Module https://www.youtube.com/watch?v=1egOXboMLlc&t=6s
+
+Video selfBuilding AR Module https://www.youtube.com/watch?v=yyBKtqGmlHQ
