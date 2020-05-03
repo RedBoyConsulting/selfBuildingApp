@@ -1,15 +1,19 @@
-const express = requeri('express')
+//import mongoose from 'mongoose'
+import express, { json } from 'express'
 const app = express()
-const { mongoose } = require ('./database')
+//const { mongoose } = require ('./database')
+//var morgan = require('mongoose-morgan');
+
 //Settings
 app.set('port', process.env.PORT || 3000)
 
 //Middlewares
-app.use(morgan('dev'))
-app.use(express.json())
+//app.use(morgan('dev'))
+app.use(json())
 
 //Routes
-app.use('/api/users', require('./routes/user.routes'))
+//app.use('/api/users', require('./routes/user.routes'))
+//connectionString : '{mongo_url}'
 
 //Starting the server
 app.listen(app.get('port'), ()=> {
