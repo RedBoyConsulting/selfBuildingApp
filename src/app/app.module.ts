@@ -54,7 +54,7 @@ imports: [
     SelfbuildingArComponent, 
     SelfbuildingVrComponent, 
     TopBarComponent, 
-    ForgottenComponent, SelfbuilgindArComponent 
+    ForgottenComponent
   ],
   bootstrap:    [ 
     AppComponent 
