@@ -9,7 +9,7 @@ export class SelfbuildingArComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
+  ngOnInit(): void {
   }
 
 }
