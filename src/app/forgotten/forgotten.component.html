@@ -1,0 +1,21 @@
+<div class = "general-small-content">
+  <div class = "content-login-signup">
+    <form [formGroup]="checkoutForm" (ngSubmit)="onSubmit(checkoutForm.value)">
+      <div>
+        <label for="email">
+          Correo
+        </label>
+        <input id="email" type="text" formControlName="email">
+      </div>
+      <div>
+          <button class="button" type="submit">Enviar</button>
+      </div>
+      <div>
+        <p>Recibiras un correo para restaurar tu contraseña</p>
+      </div>
+      <div>
+       <p> <a [routerLink]="['/']">Inicio</a></p>
+      </div>
+    </form>
+  </div>
+</div>
